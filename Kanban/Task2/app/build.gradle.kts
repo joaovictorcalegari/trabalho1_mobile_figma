@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.eduardo.task"
+    namespace = "com.bolda.task"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.eduardo.task"
+        applicationId = "com.bolda.task"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

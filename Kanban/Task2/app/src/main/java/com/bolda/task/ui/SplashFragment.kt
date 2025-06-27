@@ -8,8 +8,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.eduardo.task.R
-import com.eduardo.task.databinding.FragmentSplashBinding
+import com.bolda.task.R
+import com.bolda.task.databinding.FragmentSplashBinding
 
 
 class SplashFragment : Fragment() {

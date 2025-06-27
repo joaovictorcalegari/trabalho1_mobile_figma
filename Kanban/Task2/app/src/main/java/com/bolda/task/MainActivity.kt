@@ -1,4 +1,4 @@
-package com.eduardo.task
+package com.bolda.task
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
